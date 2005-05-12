@@ -1,16 +1,16 @@
 --- #YAML:1.0
 name: Posy-Plugin-LocalDepth
-version: 0.41
+version: 0.42
 author:
   - Kathryn Andersen
 abstract: Posy plugin to filter by local depth.
 license: perl
 requires:
-  Posy: 0.9
+  Posy: 0.95
 build_requires:
   Test::More: 0
 provides:
   Posy::Plugin::LocalDepth:
     file: lib/Posy/Plugin/LocalDepth.pm
-    version: 0.41
-generated_by: Module::Build version 0.2607
+    version: 0.42
+generated_by: Module::Build version 0.261

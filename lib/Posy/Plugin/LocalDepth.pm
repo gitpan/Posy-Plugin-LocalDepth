@@ -7,11 +7,11 @@ Posy::Plugin::LocalDepth - Posy plugin to filter by local depth.
 
 =head1 VERSION
 
-This describes version B<0.41> of Posy::Plugin::LocalDepth.
+This describes version B<0.42> of Posy::Plugin::LocalDepth.
 
 =cut
 
-our $VERSION = '0.41';
+our $VERSION = '0.42';
 
 =head1 SYNOPSIS
 
